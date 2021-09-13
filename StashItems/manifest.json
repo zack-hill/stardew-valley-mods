@@ -6,5 +6,5 @@
 	"UniqueID": "ZackHill.StashItems",
 	"EntryDll": "StashItems.dll",
 	"MinimumApiVersion": "3.12.6",
-	"UpdateKeys": [ ]
+	"UpdateKeys": [ "Nexus:9624" ]
 }
