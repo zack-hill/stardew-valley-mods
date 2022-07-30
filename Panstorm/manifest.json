@@ -1,0 +1,10 @@
+﻿{
+	"Name": "Panstorm",
+	"Author": "ZackHill",
+	"Version": "1.0.0",
+	"Description": "Plays an audio queue when a panning spot is on the map and provides directions to its location.",
+	"UniqueID": "ZackHill.Panstorm",
+	"EntryDll": "Panstorm.dll",
+	"MinimumApiVersion": "3.12.6",
+	"UpdateKeys": [ "" ]
+}
